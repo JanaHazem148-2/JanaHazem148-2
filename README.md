@@ -3,7 +3,7 @@
 
 # Important note:
 
-This account was created after losing access to a previous GitHub account.  
+This account was created after losing access to a previous GitHub account (https://github.com/JanaHazem148).  
 As a result, several repositories have been re-uploaded.
 
 The content accurately represents my work and current technical focus.
