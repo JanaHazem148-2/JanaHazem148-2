@@ -10,7 +10,7 @@ The content accurately represents my work and current technical focus.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jana-hazem-271548215/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jana.hazem.2024@aiu.edu.eg) [![GitHub](https://img.shields.io/badge/GitHub-JanaHazem148-black?logo=github&logoColor=white)](https://github.com/JanaHazem148)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jana-hazem-271548215/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jana.hazem.2024@aiu.edu.eg)
 
 
 
